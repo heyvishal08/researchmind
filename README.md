@@ -164,30 +164,14 @@ Every answer includes source cards showing exactly which text chunks were used, 
 
 ---
 
-## 🗺️ Portfolio Roadmap
-
-| # | Project | Status |
-|---|---|---|
-| 1 | TruthLens — Fake News Detector | ✅ Complete |
-| 2 | **ResearchMind — RAG Assistant** | ✅ Complete |
-| 3 | Stock Sentiment + Price Prediction | 🔲 Next |
-| 4 | Smart Traffic Analysis | 🔲 Planned |
-| 5 | Research Paper Replication | 🔲 Planned |
-
----
 
 ## 📬 Contact
 
 **Vishal** · BCA Graduate · MSc AI Engineering Applicant
 🔗 [GitHub](https://github.com/heyvishal08)
-🤗 [TruthLens Demo](https://huggingface.co/spaces/ReizenO8/truthlens)
 
 ---
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
-
----
-
-*Portfolio Project #2 of 5 · MSc AI Engineering Application Portfolio*
+MIT License — free to use, modify, and distribute
