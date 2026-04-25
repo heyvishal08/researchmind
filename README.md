@@ -24,6 +24,12 @@ ResearchMind is a full end-to-end RAG pipeline that:
 
 ---
 
+## 🚀 Live Demo
+
+> ([https://huggingface.co/spaces/ReizenO8/truthlens](https://huggingface.co/spaces/ReizenO8/researchmind))
+
+---
+
 ## 🖥️ Screenshots
 
 ### PDF Mode — Auto-generated questions
